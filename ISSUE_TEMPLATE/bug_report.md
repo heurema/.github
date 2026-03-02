@@ -28,6 +28,6 @@ assignees: ''
 
 ## Environment
 
-- **Product:** <!-- e.g., sigil 1.0.0, proofpack 0.2.1, herald 1.0.0 -->
+- **Product:** <!-- e.g., signum 2.0.1, proofpack 0.2.1, herald 1.0.0 -->
 - **OS:** <!-- e.g., macOS 15.3, Ubuntu 24.04 -->
 - **Claude Code version:** <!-- e.g., 1.0.20 -->

@@ -22,7 +22,7 @@ AI agents act at machine speed. The discipline to govern them must be built in, 
 
 | Tool | What it does |
 |------|-------------|
-| [sigil](https://github.com/heurema/sigil) | Risk-adaptive development pipeline with adversarial consensus code review |
+| [signum](https://github.com/heurema/signum) | Risk-adaptive development pipeline with adversarial consensus code review |
 | [herald](https://github.com/heurema/herald) | Daily curated news digest — zero API keys, fully local |
 | [proofpack](https://github.com/heurema/proofpack) | Proof-carrying CI gate for AI agent changes |
 | [arbiter](https://github.com/heurema/arbiter) | Multi-AI orchestrator — Codex CLI + Gemini CLI for review, ask, implement, panel |
@@ -33,7 +33,7 @@ AI agents act at machine speed. The discipline to govern them must be built in, 
 
 ```bash
 claude plugin marketplace add heurema/emporium
-claude plugin install sigil@emporium
+claude plugin install signum@emporium
 ```
 
 ---
