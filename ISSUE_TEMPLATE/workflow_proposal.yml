@@ -1,0 +1,54 @@
+name: Agent workflow proposal
+description: Propose a bounded AI-agent workflow or improvement
+title: "[Proposal] "
+labels: [proposal]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What delivery problem does this workflow solve?
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Proposed workflow
+      description: Describe the agent inputs, actions, outputs, and boundaries.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context allowed
+      description: What data/code/docs may the agent read?
+    validations:
+      required: true
+  - type: textarea
+    id: permissions
+    attributes:
+      label: Tool permissions
+      description: What can the agent do? What is explicitly forbidden?
+    validations:
+      required: true
+  - type: textarea
+    id: gates
+    attributes:
+      label: Human and security gates
+      description: Where is approval required? What checks must pass?
+    validations:
+      required: true
+  - type: textarea
+    id: proof
+    attributes:
+      label: Verification evidence
+      description: What proves that the output is safe and useful?
+    validations:
+      required: true
+  - type: textarea
+    id: portability
+    attributes:
+      label: Vendor-neutrality impact
+      description: Does this depend on a specific model, IDE, provider, or cloud?
+    validations:
+      required: false

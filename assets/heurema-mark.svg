@@ -1,0 +1,10 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Heurema mark</title>
+  <desc id="desc">A lowercase h shaped like a bounded delivery rail with a verification node.</desc>
+  <rect width="512" height="512" rx="112" fill="#0D1117"/>
+  <path d="M160 356V148" stroke="#F0F6FC" stroke-width="44" stroke-linecap="round"/>
+  <path d="M160 256C160 210 194 178 240 178H252C308 178 348 218 348 274V356" stroke="#F0F6FC" stroke-width="44" stroke-linecap="round"/>
+  <path d="M118 356H394" stroke="#7EE787" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="354" cy="356" r="38" fill="#0D1117" stroke="#7EE787" stroke-width="24"/>
+  <path d="M338 356L350 368L374 338" stroke="#7EE787" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
