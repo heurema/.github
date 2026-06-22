@@ -1,0 +1,16 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">heurema wordmark</title>
+  <desc id="desc">Heurema wordmark with tagline Craft, not conjuring.</desc>
+  <rect width="1280" height="360" rx="48" fill="#0D1117"/>
+  <g transform="translate(82 64)">
+    <rect width="232" height="232" rx="56" fill="#161B22" stroke="#30363D" stroke-width="4"/>
+    <path d="M72 162V70" stroke="#F0F6FC" stroke-width="24" stroke-linecap="round"/>
+    <path d="M72 118C72 96 88 80 110 80H118C146 80 166 100 166 128V162" stroke="#F0F6FC" stroke-width="24" stroke-linecap="round"/>
+    <path d="M48 162H184" stroke="#7EE787" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="168" cy="162" r="20" fill="#161B22" stroke="#7EE787" stroke-width="10"/>
+    <path d="M160 162L166 168L180 150" stroke="#7EE787" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="356" y="158" fill="#F0F6FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="92" font-weight="700" letter-spacing="-3">heurema</text>
+  <text x="360" y="224" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="34" font-weight="500">bounded, auditable AI-agent systems</text>
+  <text x="360" y="275" fill="#7EE787" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="600">Craft, not conjuring.</text>
+</svg>
